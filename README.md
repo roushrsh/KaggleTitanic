@@ -11,3 +11,5 @@ In any case, I've read of people getting 82% without resorting to such methods, 
 
 
 XGBoost model 1 was generated using a max.depth of 1, eta of 1, nround of 62. Unknown data was averaged for time, though ideally it would be predicted. Data also wasn't normalized for time, and names were removed from data.
+
+Hit or miss was determined by <0.5 being miss, 0.5 and over being hit.
