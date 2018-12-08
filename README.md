@@ -1,5 +1,5 @@
 # KaggleTitanic
-Titanic Kaggle Challenge
+Titanic Kaggle Challenge for practice/fun
 
 I am quickly realising I need to get better. I obtained my highest results using XGBoost with 78.7% accuracy on the dataset.
 
