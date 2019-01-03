@@ -1,4 +1,12 @@
 # KaggleTitanic
+
+2nd Post
+Edit:
+
+I was able to improve this quite a bit by using LGBM. I can see myself approaching 85% accuracy with enough parameter tuning, but as this competition is just for knowledge, I"ll focus on the other ones.
+
+-----------------------
+1st Post
 Titanic Kaggle Challenge for practice/fun
 
 I am quickly realising I need to get better. I obtained my highest results using XGBoost with 78.7% accuracy on the dataset.
